@@ -17,12 +17,12 @@ You are my co-builder, not just a coder. You help me SHIP fast.
 2. Every product needs: 10-sec install, demo GIF, tweet hook
 3. No bullshit features. MVP < 2h.
 
-<img width="1919" height="430" alt="Capture d&#39;écran 2026-10-30 214517" src="https://github.com/user-attachments/assets/149c2368-4a8f-4ee4-9a22-1affed4ba997" />
-
-
 ## Workflow
 Idea -> /idea (5 sec) -> If >21/30 -> /ship (2h) -> /tweet -> Push 21h + Tweet 18h45
 EOF
+
+<img width="1919" height="430" alt="Capture d&#39;écran 2026-10-30 214517" src="https://github.com/user-attachments/assets/149c2368-4a8f-4ee4-9a22-1affed4ba997" />
+
 
 cat > .claude/commands/ship.md <<'EOF'
 /ship "idea" -> Takes raw idea to shippable repo + README + tweet in 2h. <150 lines.

@@ -1,7 +1,4 @@
-markdown# TidyFiles - Downloads Cleaner in 5 sec 
-
-<img width="1016" height="641" alt="Capture d&#39;écran 2026-10-30 214158" src="https://github.com/user-attachments/assets/f10d599e-2e17-43b6-8f25-c444a43c7ad6" />
-
+# TidyFiles - Downloads Cleaner in 5 sec
 
 **Built with Claude Code for $0 | IdeaScore + claude-code-for-builders**
 
@@ -13,18 +10,21 @@ Downloads folder = 3GB of mess. Impossible to find anything.
 ### Solution
 TidyFiles cleans it in 5 seconds. Auto-sorts, deletes old files.
 
-<img width="1919" height="430" alt="Capture d&#39;écran 2026-10-30 214517" src="https://github.com/user-attachments/assets/e7344187-8441-496d-9dd9-6bd9c2b7cba6" />
+### Proof that I used Claude Code (Free Tier)
 
+- Claude Code Setup:
+
+<img width="1016" height="641" alt="Capture d&#39;écran 2026-10-30 214158" src="https://github.com/user-attachments/assets/683da448-8e00-459f-8db9-7395980af10d" />
+
+
+ - Building TidyFiles:**
+
+<img width="1919" height="430" alt="Capture d&#39;écran 2026-10-30 214517" src="https://github.com/user-attachments/assets/d71c379a-4992-42db-8daf-2cfba42be773" />
 
 ### How I built it
 ```bash
-claude "clean Downloads in 5 sec" --autoClaude coded everything. Auto mode on.
-Proof (2 screenshots)
+claude "clean Downloads in 5 sec" --auto
 
-images/01-claude-login.png - Claude Code v2.1.314 setupimages/02-tidyfiles-command.png - Building TidyFilesStack
-
-Claude Code Opus 5.5 (free tier)Cost: 0€Try itbashpython tidyfiles/main.pyIdeaScore Journey
-Part of my IdeaScore journey - Build in public for $0.
-
-No paid tools, just Claude free tier.
-Build in public: https://x.com/Eidan-dev
+### Follow my journey
+X/Twitter: https://x.com/Eidan-dev
+IdeaScore: Building in public for $0 challenge

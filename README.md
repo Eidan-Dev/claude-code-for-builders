@@ -16,4 +16,4 @@ claude "Build an app that cleans my Downloads folder in 5 seconds" --autoClaude 
 Proof
 images/01-claude-coding.png - Claude buildingimages/02-result.png - App workingStack
 Claude Code (free tier)Cost: 0€Try itbashpython tidyfiles/main.pyPart of:
-claude-code-for-buildersIdeaScore journeyBuild in public: https://X.com/Eidan-dev
+claude-code-for-buildersIdeaScore journey : h**Build in public:** [X.com/Eidan-dev](https://x.com/Eidan-dev)
